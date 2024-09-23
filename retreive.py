@@ -102,8 +102,8 @@ Query Process:
     Image: <img src="[image_link]" alt="[title]">
     Product Link: Odkaz na produkt: <a href="[link]">[title]</a>
     Price: Cena: [price] Kč
-    Availability: Dostupnost: [availability]
     MPN: MPN: [mpn]
+    dimensions: weight, cm etc
 
 
 Handle Query Types:
